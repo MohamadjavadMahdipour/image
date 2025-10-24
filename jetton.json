@@ -1,0 +1,18 @@
+{
+  "name": "Javad",
+  "symbol": "JAVAD",
+  "description": "Javad is a community-driven Jetton secured by Cherick — designed for the TON ecosystem.",
+  "image": "https://raw.githubusercontent.com/MohamadjavadMahdipour/image/refs/heads/main/photo_2025-10-23_16-23-30.jpg",
+  "decimals": 9,
+  "social": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  },
+  "specs": {
+    "max_supply": "1000000000000000000",
+    "mintable": true,
+    "transferable": true
+  },
+  "external_url": ""
+}
